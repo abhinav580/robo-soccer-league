@@ -10,6 +10,6 @@ Welcome to the Robo Soccer League 2019. In this Documentation you will get every
 
 # Bot Setup
 Circuit Diagram:
-![alt text](https://drive.google.com/open?id=1gYYqAVB8xmwbd6fU3BuGWhT2xQQM0p-P)
+![alt text](https://www.electronicshub.org/wp-content/uploads/2018/08/Bluetooth-Controlled-Robot-using-Arduino-Circuit-Diagram.jpg)
 # IDE Installation
 Download the [Arduino IDE](https://www.arduino.cc/en/Main/Software) by visiting the Link and install it in your System
