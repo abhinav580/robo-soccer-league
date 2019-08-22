@@ -19,6 +19,9 @@ The robot chassis which I am using in this Bluetooth Controlled Robot Car projec
 
 NOTE: I have used L298N Motor Driver Module to drive the motors of the robot. You can use either this one or L293D Motor Driver Module. If you are using L293D, then check out for the connections.
 
+# Coding 
+The code is attached with this repo. [Click Here](https://github.com/abhinav580/robo-soccer-league/blob/master/Code.ino) and will be explained on 7th of September.
+
 # Installation
 Download the [Arduino IDE](https://www.arduino.cc/en/Main/Software) by visiting the Link and install it in your System
 Download the [Android App](https://www.youtube.com/redirect?event=video_description&redir_token=Wt1QDh4OWZsq5_V69gf6GA1q1Kd8MTU2NjU3MzUxOUAxNTY2NDg3MTE5&q=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dappinventor.ai_el_profe_garcia.Arduino_Control_Car%26hl%3Den&v=kewza7RyKMQ)
