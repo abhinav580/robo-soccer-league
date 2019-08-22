@@ -3,7 +3,7 @@ Welcome to the Robo Soccer League 2019. In this Documentation you will get every
 
 # Requirements
 1. [Arduino UNO](https://www.amazon.in/Uno-ATmega328P-Compatible-ATMEGA16U2-Arduino/dp/B015C7SC5U/ref=sr_1_3?keywords=arduino+uno&qid=1566483575&s=gateway&sr=8-3)
-2. [Chasis for Bot](https://www.amazon.in/gp/product/B01MT9Z9QB/ref=ox_sc_act_title_3?smid=A334DB6ZJ8V2ML&psc=1)
+2. [Chasis for Bot](https://www.amazon.in/gp/product/B01MT9Z9QB/ref=ox_sc_act_title_3?smid=A334DB6ZJ8V2ML&psc=1) { You can also build the Chasis by your Own )
 3. [Motor Driver](https://www.amazon.in/gp/product/B00N4KWYDE/ref=ox_sc_act_title_1?smid=A3II2Q67VJD3XT&psc=1)
 4. [Bluetooth Module](https://www.amazon.in/dp/B019OR9YVU)
 5. Jumper Cables
